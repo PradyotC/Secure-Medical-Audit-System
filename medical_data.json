@@ -1,0 +1,50 @@
+{
+    "prads": {
+        "123455": {
+            "temperature": 99.5,
+            "blood_pressure": "88/99"
+        },
+        "123458": {
+            "temperature": 100.7,
+            "blood_pressure": "100/120"
+        }
+    },
+    "ramu": {
+        "16547": {
+            "temperature": 105.0,
+            "blood_pressure": "80/120"
+        },
+        "12679": {
+            "temperature": 104.0,
+            "blood_pressure": "90/99"
+        }
+    },
+    "jimmy": {
+        "12767": {
+            "temperature": 104.0,
+            "blood_pressure": "90/99"
+        },
+        "126813": {
+            "temperature": 100.0,
+            "blood_pressure": "90/99"
+        }
+    },
+    "shyam": {
+        "12177": {
+            "temperature": 123.0,
+            "blood_pressure": "100/113"
+        }
+    },
+    "xyz": {
+        "23587": {
+            "temperature": 70.0,
+            "blood_pressure": "80/110"
+        }
+    },
+    "testpatient": {
+        "22334455": {
+            "temperature": 99.0,
+            "blood_pressure": "77/66"
+        }
+    }
+}
